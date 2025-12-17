@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: vm5km-typxx
+created: 2025-12-06T10:52:44+05:30
